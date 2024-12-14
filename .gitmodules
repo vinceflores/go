@@ -1,0 +1,9 @@
+[submodule "gitcallog"]
+	path = gitcallog
+	url = https://github.com/vinceflores/gitcallog.git
+[submodule "term-kanban"]
+	path = term-kanban
+	url = https://github.com/vinceflores/term-kan.git
+[submodule "simple-chat-go"]
+	path = simple-chat-go
+	url = https://github.com/vinceflores/simple-chat-go.git

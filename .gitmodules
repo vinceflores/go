@@ -10,3 +10,6 @@
 [submodule "filtering-example"]
 	path = filtering-example
 	url = https://github.com/vinceflores/filtering-example.git
+[submodule "chess"]
+	path = chess
+	url = https://github.com/vinceflores/chess.git
